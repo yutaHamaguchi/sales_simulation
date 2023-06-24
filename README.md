@@ -54,10 +54,5 @@ Marketing efforts will focus on targeting individuals who are new to the car sal
 - Solo Developer: Responsible for game development, including coding, design, and integration of assets.
 - Asset Store: Sourcing artwork, designs, and sounds from the asset store to enhance the room environment and streamline development.
 
-## Development Timeline
-- Week 1: Concept and Design Phase
-- Week 2: Development and Implementation Phase
-- Week 3: Testing, Polishing, and Finalization Phase
-
 ## Conclusion
 CarSalesperson Experience is a web-based game designed to provide a simple and accessible training experience for individuals new to the car sales industry. Through interactive voice-based customer interactions, car demonstrations, and the utilization of the "Gold Cars TV Studio" asset pack, players can practice their sales skills in a visually stunning and realistic car dealership environment. With the integration of Convai's conversational AI platform, the game offers a realistic and dynamic conversational experience, enhancing the immersion and training effectiveness. With a focus on the core mechanics and an easy-to-use interface, the game offers an engaging and practical training solution for aspiring salespersons.
